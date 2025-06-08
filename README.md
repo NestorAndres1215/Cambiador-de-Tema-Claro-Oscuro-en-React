@@ -15,7 +15,8 @@ Este es un proyecto básico en React que permite alternar entre **modo claro** y
 ---
 
 ## 📷 Vista Previa
-- Modo Claro
+---
+## Modo Claro
 ![image](https://github.com/user-attachments/assets/2db8e8f6-870d-49ef-88ff-cb6bf6eec73f)
-- Modo Oscuro
+## Modo Oscuro
 ![image](https://github.com/user-attachments/assets/70602521-d152-497e-821c-f42ec34af20c)
